@@ -1,0 +1,13 @@
+order_no,order_date,total,order_type,name,items,delivery_person_id,delivery_fee
+1,2022-03-10,36.50,takeaway,John,"Hamburger,French Fries,Coca Cola",3,13.50
+2,2022-03-11,41.00,dine-in,Jane,"Pizza,Salad,Soda",1,10.00
+3,2022-03-12,25.00,takeaway,Mike,"French Fries,Coca Cola",6,12.00
+4,2022-03-13,58.00,dine-in,Lisa,"Hamburger,Pizza,Grilled Chicken",8,15.00
+5,2022-03-14,36.50,takeaway,Tom,"French Fries,Coca Cola,Salad",5,11.50
+6,2022-03-15,69.00,dine-in,Sam,"Pizza,Grilled Chicken,Seafood Platter",2,16.00
+7,2022-03-16,55.50,takeaway,Anna,"Hamburger,French Fries,Salad,Onion Rings",7,18.50
+8,2022-03-17,40.00,dine-in,Peter,"Coca Cola,Soda,Seafood Platter",4,11.00
+9,2022-03-18,31.00,takeaway,Kare,"French Fries,Coca Cola,Soda",10,14.00
+10,2022-03-19,66.00,dine-in,David,"Hamburger,Pizza,Grilled Chicken,Lemonade",9,17.00
+11,2022-03-20,41.00,takeaway,John,"French Fries,Coca Cola,Salad,Soda",1,12.00
+12,2022-03-21,54.50,dine-in,Jane,"Hamburger,Pizza,Onion Rings,Lemonade",5,16.50
